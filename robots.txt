@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-kazino-s-vyvodom-na-tinkoff.github.io
+Sitemap: https://luchshie-kazino-s-vyvodom-na-tinkoff.github.io/sitemap.xml
